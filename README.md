@@ -61,7 +61,7 @@ cdk --version
 1. Clone the repo:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone image-pipeline
 cd image-pipeline
 ```
 
